@@ -1,2 +1,2 @@
-# Power BI Showcases
+# Awesome PBIX
 {Awesome Works in Progress}
