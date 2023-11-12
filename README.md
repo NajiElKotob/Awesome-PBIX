@@ -11,3 +11,6 @@
 
 ## 3rd Party PBIX
 * [CustomerVoice](https://github.com/CustomerVoice/PowerBI) 
+
+## Deneb Templates
+* [Power BI tips](https://github.com/PowerBI-tips/Deneb-Templates/tree/main)
