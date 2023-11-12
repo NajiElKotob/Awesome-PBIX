@@ -11,6 +11,7 @@
 
 ## 3rd Party PBIX
 * [CustomerVoice](https://github.com/CustomerVoice/PowerBI) 
+* [SQLBI | DaxDateTemplate](https://github.com/sql-bi/DaxDateTemplate)
 
 ## Deneb Templates
 * [Power BI tips](https://github.com/PowerBI-tips/Deneb-Templates/tree/main)
